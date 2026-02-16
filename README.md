@@ -40,3 +40,44 @@ Applications
 - Competitive programming
 - System-level programming
 - Performance optimization
+
+
+Advanced Bit Manipulation
+=========================
+
+Topics Covered
+--------------
+1. Bitmasking (Subsets generation)
+2. Two single numbers problem
+3. Missing number using XOR
+4. Gray code generation
+
+Why These Problems?
+-------------------
+These are extremely common in:
+- FAANG interviews
+- Competitive programming
+- Online assessments
+
+Core Techniques Used
+--------------------
+- XOR properties
+- Rightmost set bit trick (x & -x)
+- Bitmask iteration
+- Binary shifting
+
+Complexity Overview
+-------------------
+Most solutions run in:
+Time: O(n)
+Space: O(1)
+
+Gray code:
+Time: O(2^n)
+
+Applications
+------------
+- Combinatorics
+- Cryptography
+- Subset generation
+- Hardware design
